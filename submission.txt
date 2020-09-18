@@ -1,0 +1,40 @@
+# Large cinema company 
+
+User Stories
+
+# User
+1 Booking System- acceptance criteria: Fully designed front page with 3 drop downs: Selected cinema, Select film, Select time. (These drop downs all need to work together- depending on the
+first 
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+# admin
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+#staff members
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
