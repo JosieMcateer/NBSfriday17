@@ -20,7 +20,7 @@ Story 2. As a user, i want to select a time, so that i can make a booking.
 Given the user has selected a movie, when they select from the available times, and select confirm, then the are asked to select ticket types.
 
 
-Story 3. As a user, i would like to select ticket types, so that i can make a booking. 
+Story 3. As a user, i want to select ticket types, so that i can make a booking. 
 
 Given the user has confirmed times, when they select from the ticket types, and select confirm then they are asked to enter their details.
 
@@ -67,15 +67,47 @@ Story 7, M (3 hrs)
 
 
 
-# Admin. Epic story: "As an admin, I want an admin suite where i have control over systems developed, so i can host trailers and haveadministrator rights over the system."
+# Admin. Epic story: "As an admin, I want an online portal where i have control over systems developed and content added/edited, so i can host trailers and have administrator rights over the system."
+
+Story 1. As Admin, i want to enter my details into an online portal, so that i can log in to myaccount. 
+
+Given the administrator is on the online portal, when they enter their log in details, then they are asked click 'log in'. 
+
+
+Story 2. As Admin, i want to click log in, so that i can access my account. 
+
+Given the administrator has entered their details, when they click 'log in', then they can see their account.
+
+
+Story 3. As Admin, i want control over systems developed, so that i can add, update and fix content as needed.
+
+Given the administrator is on the online portal, when they view the back end with administrator access, and view the films available to edit, and remove films, then they woud be able to have control over systems.
 
 
 
+Story 4. As Admin, i want to be able to add new listings, so that users can see what films are available.
 
+Given the administrator is on their login homepage, when they select ‘add new listing', and they enter the title of the film, and they enter the times, and they update seats, and click confirm, then they would have added a new film onto the homepage. 
+
+
+Story 5. As Admin, i want to be able to edit listings, so that users can see what films are available with the correct details.
+
+Given the administrator is on their login homepage, when they select ‘edit/remove listing', and they , and click confirm, then they would have edited or removed an existing film from the user homepage. 
+
+
+
+Story 6. As Admin, i want to host trailers from an external sight, so that users can view trailers for upcoming movies. 
+
+Given the admin is on the online portal, when they edit the home page, and edit the code, and embed the link, and test the code, then the trailers will be available to view on the user home page. 
+
+
+DoD: The admin are able to log in to their own portal where they have full access and are able to control systems. The link for the external videos is embedded into the homepage for the user's. Admin's are able to add/update film listings and also remove these. All code will be checked and tested before going into a live enviroment. 
 
  
 Priority: in order from highest to lowest.
-Stories are in order of priority. 
+Story 3 4 & 5.
+Story 6,
+stories 1&2 
 
 Estimations (based on an experience coder.. not my own skills as that will be WEEKS): 
 XS, S, M, L, XL. 
@@ -99,12 +131,12 @@ Given the Staff member is on the login page,
 When they enter their correct details, And they click login, And they want to view a booking, And create a booking, And click the relevant tab,
 Then they are redirected to the relevant page
 
-Story 1. As a staff member, i would like to enter my details into a staff portal, so that i can log in to myaccount. 
+Story 1. As a staff member, i want to enter my details into a staff portal, so that i can log in to myaccount. 
 
 Given the staff member is on the staff portal, when they enter their personal details, then they are asked click 'log in'. 
 
 
-Story 2. As a staff member, i would like to click log in, so that i can access my account. 
+Story 2. As a staff member, i want to click log in, so that i can access my account. 
 
 Given the staff member has entered their details, when they click 'log in', then they can see their account.
 
