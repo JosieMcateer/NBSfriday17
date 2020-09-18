@@ -1,4 +1,4 @@
-# Large cinema company 
+﻿# Large cinema company 
 
 Requirements. 
 
@@ -175,3 +175,14 @@ Story 3, S (2hrs)
 Story 4, XS (1hr)
 
 
+
+EPICS: Priority:
+
+admin epic
+user epic
+staff member epic
+
+I have ranked it as these as the admin behind the sight is the most important, 
+without this there wouldn`t be a correct sight for the users.
+Also i have put the user sight as second as staff could always help the members
+by directing them to this sight. 
