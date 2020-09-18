@@ -3,17 +3,35 @@
 User Stories
 
 # User
-1 Booking System- acceptance criteria: Fully designed front page with 3 drop downs: Selected cinema, Select film, Select time. (These drop downs all need to work together- depending on the
-first 
-2
-3
-4
-5
-6
-7
-8
-9
-10
+
+Story 1. "I want a light blue and black themed homepage that draws me in, a bold header of the cinema name in black, and easily scrollable through for when the available films are showing."  Acceptance criteria: a working home page that has blue and black on where you will be able to scroll through the films.
+-DoD: for the first user story is: A fully well designed home page (using html&css ...) which has a large title of the cinema name, and an area where the available screenings will show, and the ability to scroll down. 
+
+
+Story 2 "I want a Booking System where i can see the films, times of films and can book at my secelcted cinema". - Mini user stories: 
+   
+  1."i want the booking film options to be on the homepage, simple and clear to see" acceptance criteria: the home page will have a scroll down option to view the films, and each film will be able to book on this screen with drop down options: select cinema, select film, select time amount of tickets and select seats.
+   
+  2. "I want the drop downs to trigger correct options on the following drop down. ETC> once the correct cinema is chosen, i only want it to show the current listings for that specific cinema." Acceptance criteria: These drop downs all need to work together- depending on the first drop down, this should alter the second drop down options, then these should both alter the rest of the drop downs to update. 
+  
+  3. "I want a working "book now" button which redirects me to a confirmation screen". Acceptance criteria: a working book now button that redirects you to a confirmation page. 
+DoD: The definition of done for the second user story: on the home page, each film listing will have working linked drop downs where you can select the cinema, film and available time to watch the film. Once you select these there needs to be a book now button which directs you to a confirmation page.
+
+
+Story 3. "i do not want to host the trailers, i want to work with a video hosting website to show the trailers. I would prefer for this to show as a picture from the video and once you click play it doesn't redirect to another website". Acceptance criteria: a link to the video hosting website so that users can view the trailers.
+-DoD: For story 3, the DoD is that the website link is fully embedded into the content. When scrolling through the home page you have the option to press play and watch the trailer on the hoe screen- the user should not know that this is hosted by a video hosting website.
+
+
+Story 4. "i want a confirmation page which matches the blue and black theme. It has to have aprice break down but also add up the price of the selections, confirm the selections and has a button to 'pay' which directs you to a pay page" Acceptance criteria: a blue and black themes page which shows you the price total, confirms the time location seats and amount of tickets for the film and has a 'pay' button.
+-DoD: the definition of done for this user story is a matching theme to the home page of the cinema website. A confirmation page which confirms your selections and confrms all the drop down box selections. Also will have a price breakdown of each and a 'total price to pay'. There will be a working 'pay now' button which will let you pay for your selection. 
+
+Story 5. "i want a payment box to pop up on the screen of the confirmation page which then confirms payment and details of the booking" Acceptance criteria: a working payment bx which takes payment from the users selected method, once paid for the screen will show a 'payment confirmed' box with all details of the booking.
+-DoD: A matching theme to the home page of the cinema website. A payment confirmed screen which confirms payment, also confirming your selections of film including all the drop down box selections. 
+
+
+Story 6. " I want my website to be compatable with computers, tablets and phones" Acceptance criteria: you can access from any device.story 
+-DoD: for this the definition of done will be that the site renders and fits the screen you are on so that you do not have to zoom etc to see films. 
+
 
 # admin
 1
