@@ -63,7 +63,13 @@ Story 7, M (3 hrs)
 
 
 
-# Admin. Epic story: "As an admin, I want an admin suite
+
+
+
+
+# Admin. Epic story: "As an admin, I want an admin suite where i have control over systems developed, so i can host trailers and haveadministrator rights over the system."
+
+
 
 
 
@@ -82,6 +88,10 @@ Story 6, XS (1hr)
 Story 7, M (3 hrs)
 
 
+
+
+
+
 #Staff Members.  Epic: “As a Staff member, I want access to a staff portal and have the ability create new bookings and view existing, so that I can help users" 
 
 Acceptance criteria:
@@ -93,16 +103,33 @@ Story 1. As a staff member, i would like to enter my details into a staff portal
 
 Given the staff member is on the staff portal, when they enter their personal details, then they are asked click 'log in'. 
 
+
 Story 2. As a staff member, i would like to click log in, so that i can access my account. 
 
-Given the staff member has entered their details, when they click 'log in', 
+Given the staff member has entered their details, when they click 'log in', then they can see their account.
 
 
-3
-4
-5
-6
-7
-8
-9
-10
+Story 3. As a staff member, i want to be able to create new bookings, so that I can serve users completing their bookings.
+
+Given the staff member is on their login homepage, when they select ‘create booking', and they choose a film, and they choose from the available times, and they select seats, and they enter customer details, and they enter the user payment details, and click book, then they will see a booking confirmation on screen.
+
+
+Story 4. As a staff member, i want to view existing bookings, so that I can assist users.
+
+Given the staff member is on their login homepage, when they select 'view existing bookings', and they enter the users details, and click 'view', then they will have viewed the users existing booking.
+
+
+DoD: If all of the the acceptance criteria comes back as true. The staff members are able to log into their own portal where they can see existing bookings and create new ones successfully. When the staff create new bookings, they will recieve an on screen confirmation.
+The code used for this to work will have been peer reviewed and tested for any bugs/defects. 
+
+Priority: in order from highest to lowest.
+Stories 3&4 are a higher priority than 1&2 as these impact the user directly. 
+
+Estimations (based on an experience coder.. not my own skills as that will be WEEKS): 
+XS, S, M, L, XL. 
+Story 1, XS  (1hr)
+Story 2, XS  (1hr)
+Story 3, S (2hrs)
+Story 4, XS (1hr)
+
+
