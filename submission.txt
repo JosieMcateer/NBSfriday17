@@ -101,12 +101,17 @@ Story 6. As Admin, i want to host trailers from an external sight, so that users
 Given the admin is on the online portal, when they edit the home page, and edit the code, and embed the link, and test the code, then the trailers will be available to view on the user home page. 
 
 
-DoD: The admin are able to log in to their own portal where they have full access and are able to control systems. The link for the external videos is embedded into the homepage for the user's. Admin's are able to add/update film listings and also remove these. All code will be checked and tested before going into a live enviroment. 
+Story 7. As admin, i want to remove trailers/edit how the trailers are laid out on the user homepage, so that users are seeing the correct trailers.
+
+Given the Admin has already embedded the trailer link, when they udate the videos in the code, and re-arrage the lay out, and remove trailers when films are no longer showing, then the correct trailers will be showing for the correct films.
+
+
+DoD: The admin are able to log in to their own portal where they have full access and are able to control systems. The link for the external videos is embedded into the homepage for the user's to view,and the admin can change the videos when needed and remove when films are no longer being shown. Admin's are able to add/update film listings and also remove these. All code will be checked and tested before going into a live enviroment. 
 
  
 Priority: in order from highest to lowest.
 Story 3 4 & 5.
-Story 6,
+Story 6 & 7
 stories 1&2 
 
 Estimations (based on an experience coder.. not my own skills as that will be WEEKS): 
