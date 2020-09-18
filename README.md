@@ -26,6 +26,8 @@ As i was slightly confused i asked Piers, and now have learnt from the mistake a
 
 When Piers first explained i had to ask for more info and he sent an example, as soon as I had this it made sense. 
 
+I struggled with the "Admin" user stories as i was confused on what ther job was. 
+
 # improvements for the future
 In the future, before starting a task i will read QA community to refresh my knowledge andto ensure i am doing it correctly.
 
