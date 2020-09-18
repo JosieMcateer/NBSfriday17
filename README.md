@@ -12,7 +12,7 @@ Then we had to add a ReadMe.md file and edit this with the questions (hopefully)
 
 # How I expected the challenge to go
 I expected the challenge would be ok- i have used GIT in the past and i have done many course on agile however i have never had to do epic stories, user stories etc in the format.
-
+I thought it would be a quick challenge (it wasn't)
 
 # What went well?
 Using GIT went well, i used it mainly for practice and committed often so that i wouldnt loose my work. I had to use the VM for the command line. 
@@ -28,7 +28,11 @@ When Piers first explained i had to ask for more info and he sent an example, as
 
 I struggled with the "Admin" user stories as i was confused on what ther job was. 
 
+We were told this would be 2 hours but took a lot longer than this- mainly as i did make mistakes/wasnt happy enough with it and kept revisiting.
+
 # improvements for the future
 In the future, before starting a task i will read QA community to refresh my knowledge andto ensure i am doing it correctly.
 
 Also i will continue to ask if I am ever confused. :) 
+
+
