@@ -39,6 +39,7 @@ Story 6. As a user, i want to click book, so that i can confirm my film.
 
 Given the user has entered their payment details, when they click book, then they will be set a confirmation email with their tickets.
 
+
 Story 7. As a user, i want to view trailers, so that i can choose which film to watch.
 
 Given the user is on the home page, when they select to view more information on a film, then they can watch the movies trailer.
@@ -69,6 +70,10 @@ Story 7, M (3 hrs)
 
 # Admin. Epic story: "As an admin, I want an online portal where i have control over systems developed and content added/edited, so i can host trailers and have administrator rights over the system."
 
+Given the Admin is on their admin portal,
+When they log in, and view listings, and edit listings, and add external video links, and update external video links, and have full control over systems developed,
+Then they will will have full admin suite control.
+
 Story 1. As Admin, i want to enter my details into an online portal, so that i can log in to myaccount. 
 
 Given the administrator is on the online portal, when they enter their log in details, then they are asked click 'log in'. 
@@ -79,7 +84,7 @@ Story 2. As Admin, i want to click log in, so that i can access my account.
 Given the administrator has entered their details, when they click 'log in', then they can see their account.
 
 
-Story 3. As Admin, i want control over systems developed, so that i can add, update and fix content as needed.
+Story 3. As Admin, i want control over systems developed, so that i can add/update and fix content as needed.
 
 Given the administrator is on the online portal, when they view the back end with administrator access, and view the films available to edit, and remove films, then they woud be able to have control over systems.
 
@@ -118,10 +123,10 @@ Estimations (based on an experience coder.. not my own skills as that will be WE
 XS, S, M, L, XL. 
 Story 1, XS  (1hr)
 Story 2, XS  (1hr)
-Story 3, XS (1hr)
+Story 3, M (3hrs)
 Story 4, S (2hrs)
 Story 5, S (2hrs)
-Story 6, XS (1hr)
+Story 6, M (3hrs)
 Story 7, M (3 hrs)
 
 
